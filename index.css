@@ -1,0 +1,74 @@
+body{
+    font-family: Arial,sans-serif;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+#profileContainer{
+    width: 150px;
+    border-radius: 50%;
+    margin: 10px 0;
+}
+.error{
+    color: red;
+    font-size: 10px;
+    text-align: center;
+}
+.profile-info {
+  max-width: 400px;
+  margin: 20px auto;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 12px;
+  text-align: left;
+    animation: fadeIn 0.5s ease-in-out;
+}
+.profile-info img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin: 10px auto;
+  display: block;
+}
+input[type="text"] {
+  padding: 10px;
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+button {
+  padding: 10px 15px;
+  margin-left: 10px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5em;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
