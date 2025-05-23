@@ -1,2 +1,39 @@
-# Github-Profile-Viewer
-A simple and interactive web app that lets you search for any GitHub user's profile using their username. It uses the GitHub Users API to fetch and display public profile information.
+# 👤 GitHub Profile Viewer
+
+A simple and interactive web app that allows users to fetch and view public profile information of any GitHub user using their username. Built with HTML, CSS, JavaScript, and the GitHub REST API.
+
+---
+
+## ✨ Features
+
+- 🔍 Search any GitHub user by username
+- 🧾 View user details including:
+  - Name
+  - Bio
+  - Location
+  - Public Repositories
+  - Followers
+  - Avatar
+- 🚫 Graceful error handling for invalid or empty input
+- 💡 Clean, responsive design with smooth fade-in animation
+- ⚙️ Powered by GitHub's REST API
+
+---
+
+## 🌐 Live Demo
+
+You can try the app live here: https://sajal-kulshreshtha.github.io/Github-Profile-Viewer/
+
+---
+
+## 📸 Screenshot
+![alt text](image.png)
+![alt text](image-1.png)
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/github-profile-viewer.git
