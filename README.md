@@ -31,9 +31,3 @@ You can try the app live here: https://sajal-kulshreshtha.github.io/Github-Profi
 ![alt text](image-1.png)
 
 ---
-
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/github-profile-viewer.git
